@@ -1,0 +1,39 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales locales
+.venv/
+venv/
+env/
+
+# Cachés
+.cache/
+.cache-*/
+huggingface/
+transformers_cache/
+
+# Modelos y checkpoints generados localmente
+models/
+checkpoints/
+checkpoint-*/
+outputs/
+output/
+
+# Archivos grandes de modelos
+*.safetensors
+*.gguf
+*.bin
+*.pt
+*.pth
+*.ckpt
+
+# Logs
+*.log
+
+# Sistema / editor
+.DS_Store
+Thumbs.db
