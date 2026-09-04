@@ -37,3 +37,4 @@ output/
 # Sistema / editor
 .DS_Store
 Thumbs.db
+.env
