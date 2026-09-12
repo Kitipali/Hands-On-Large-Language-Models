@@ -1,0 +1,1 @@
+{"name": "SentenceTransformer based on google-bert/bert-base-uncased", "revision": "86b5e0934494bd15c9632b12f734a8a67f723594", "release_date": null, "languages": [], "n_parameters": null, "memory_usage": null, "max_tokens": null, "embed_dim": null, "license": null, "open_source": null, "similarity_fn_name": null, "framework": ["Sentence Transformers"], "loader": null}
